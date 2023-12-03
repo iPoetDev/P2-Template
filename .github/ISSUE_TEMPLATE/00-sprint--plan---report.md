@@ -10,13 +10,13 @@ assignees: iPoetDev
 
 ---
 
-# [`SPRINT #0?? - Milestone: Agile Plan | Control`](https://github.com/iPoetDev/dash-and-do-github/milestone/2)
+# [`SPRINT #0?? - Milestone: Agile Plan | Control`](https://github.com/iPoetDev/P2-Template/milestone/)
 > - [ ] Replace Milestone Id in link.
 > - [ ] Add Sprint Sequence Id in Title.
 > - [ ] Copy Sprint label per sprint.
 
-> https://github.com/iPoetDev/dash-and-do-github/labels/Kind%3A%20Sprint
-> https://github.com/iPoetDev/dash-and-do-github/labels/Plan%20%3A%20Horizon: **3 Weeks**
+> https://github.com/iPoetDev/P2-Template/labels/Kind%3A%20Sprint
+> https://github.com/iPoetDev/P2-Template/labels/Plan%20%3A%20Horizon: **3 Weeks**
 
 ## Spint Backlog
 > Add Planned Issues Below
@@ -33,19 +33,19 @@ assignees: iPoetDev
 ## Sprint Plan | Report
 
 - Epic: " "
-  https://github.com/iPoetDev/dash-and-do-github/labels/Kind%3A%20Epic
+  https://github.com/iPoetDev/P2-Template/labels/Kind%3A%20Epic
 - Features:
-  https://github.com/iPoetDev/dash-and-do-github/labels/Kind%3A%20Feature
+  https://github.com/iPoetDev/P2-Template/labels/Kind%3A%20Feature
   -  :
   -  :
 - Stories:
-  https://github.com/iPoetDev/dash-and-do-github/labels/Kind%3A%20Story
+  https://github.com/iPoetDev/P2-Template/labels/Kind%3A%20Story
   -  :
   -  :
 - Acceptance:
-  https://github.com/iPoetDev/dash-and-do-github/labels/Kind%3A%20Accept
+  https://github.com/iPoetDev/P2-Template/labels/Kind%3A%20Accept
   -  :
-  -  :   
+  -  :
 - Progress:
   - Started:
   - Not Completed:

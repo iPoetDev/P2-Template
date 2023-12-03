@@ -10,8 +10,8 @@ assignees: iPoetDev
 # **`BUG`**:
 > Label the Bug  | Component| Feature Name:  *`   `* | File Name  *`   `*  |  Line No:  *`   `*
 > Triage:
-> > [`More Info`](https://github.com/iPoetDev/P4Template/labels/TRIAGE%3A%20More%20Information)  |   [`Fixable`](https://github.com/iPoetDev/P4Template/labels/TRIAGE%3A%20Fixable)  |   [`Not Reproduced`](https://github.com/iPoetDev/P4Template/labels/TRIAGE%3A%20Not%20Reproduced)  |   [`Dependency`](https://github.com/iPoetDev/P4Template/labels/TRIAGE%3A%20Dependency%3A%20Update)  |   [`Blocker`](https://github.com/iPoetDev/P4Template/labels/TRIAGE%3A%20Dependency%3A%20Blocker)  |   [`Invalid`](https://github.com/iPoetDev/P4Template/labels/TRIAGE%3A%20Invalid)  |   [`Wont Fix`](https://github.com/iPoetDev/P4Template/labels/TRIAGE%3A%20WontFix)  |   [`Fixed`](https://github.com/iPoetDev/P4Template/labels/TRIAGE%3A%20Fixed)  |
-> End: [`FIXED`](https://github.com/iPoetDev/P4Template/labels/FIXES%3A%20Found%20Bugs%20%7C%20Issues%20%7C%20Full%20Triage) | [`NO-FIX`](https://github.com/iPoetDev/P4Template/labels/NO-FIXES%3A%20Won%27t%20Fix%20Bug%20%7C%20Issues%20%7C%20Full%20Triage)
+> > [`More Info`](https://github.com/iPoetDev/P2-Template/labels/TRIAGE%3A%20More%20Information)  |   [`Fixable`](https://github.com/iPoetDev/P2-Template/labels/TRIAGE%3A%20Fixable)  |   [`Not Reproduced`](https://github.com/iPoetDev/P2-Template/labels/TRIAGE%3A%20Not%20Reproduced)  |   [`Dependency`](https://github.com/iPoetDev/P2-Template/labels/TRIAGE%3A%20Dependency%3A%20Update)  |   [`Blocker`](https://github.com/iPoetDev/P2-Template/labels/TRIAGE%3A%20Dependency%3A%20Blocker)  |   [`Invalid`](https://github.com/iPoetDev/P2-Template/labels/TRIAGE%3A%20Invalid)  |   [`Wont Fix`](https://github.com/iPoetDev/P2-Template/labels/TRIAGE%3A%20WontFix)  |   [`Fixed`](https://github.com/iPoetDev/P2-Template/labels/TRIAGE%3A%20Fixed)  |
+> End: [`FIXED`](https://github.com/iPoetDev/P2-Template/labels/FIXES%3A%20Found%20Bugs%20%7C%20Issues%20%7C%20Full%20Triage) | [`NO-FIX`](https://github.com/iPoetDev/P2-Template/labels/NO-FIXES%3A%20Won%27t%20Fix%20Bug%20%7C%20Issues%20%7C%20Full%20Triage)
 
 ## Related
 

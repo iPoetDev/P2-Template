@@ -3,19 +3,19 @@ blank_issues_enabled: true
 contact_links:
   -
     name: Sprint to Milestone Planning
-    url: https://github.com/iPoetDev/P4Template/milestones
+    url: https://github.com/iPoetDev/P2-Template/milestones
     about: Project Planning & Organisation
   -
     name: Agile Projects Tool
-    url: https://github.com/iPoetDev/P4Template/projects
+    url: https://github.com/iPoetDev/P2-Template/projects
     about: Agile Tool for Epics & User Stories per Sprint
   -
     name: Project & Academic Wiki
-    url: https://github.com/iPoetDev/P4Template/wiki
+    url: https://github.com/iPoetDev/P2-Template/wiki
     about: Appendicies, Commentary & Assessment criteria
   -
     name: Repository Discussions
-    url: https://github.com/iPoetDev/P4Template/discussions
+    url: https://github.com/iPoetDev/P2-Template/discussions
     about: Open forum and contact point
   -
     name: Code Institute Student Handbook

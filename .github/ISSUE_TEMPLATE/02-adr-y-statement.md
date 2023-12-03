@@ -8,7 +8,7 @@ assignees: iPoetDev
 ---
 
 # **`Y-Statement`**: **[000?]()**
-> Status: [`Proposed`](https://github.com/iPoetDev/P4Template/labels/ADR-Proposed)  |  [`Pending`](https://github.com/iPoetDev/P4Template/labels/ADR-Pending)  |  [`Defered`](https://github.com/iPoetDev/P4Template/labels/ADR-Deferred)  |  [`Accepted`](https://github.com/iPoetDev/P4Template/labels/ADR-Accepted)  |  [`Rejected`](https://github.com/iPoetDev/P4Template/labels/ADR-Rejected)  |  [`Suspended`](https://github.com/iPoetDev/P4Template/labels/ADR-Suspended)  |  [`Superseded`](https://github.com/iPoetDev/P4Template/labels/ADR-Superseded)
+> Status: [`Proposed`](https://github.com/iPoetDev/P2-Template/labels/ADR-Proposed)  |  [`Pending`](https://github.com/iPoetDev/P2-Template/labels/ADR-Pending)  |  [`Defered`](https://github.com/iPoetDev/P2-Template/labels/ADR-Deferred)  |  [`Accepted`](https://github.com/iPoetDev/P2-Template/labels/ADR-Accepted)  |  [`Rejected`](https://github.com/iPoetDev/P2-Template/labels/ADR-Rejected)  |  [`Suspended`](https://github.com/iPoetDev/P2-Template/labels/ADR-Suspended)  |  [`Superseded`](https://github.com/iPoetDev/P2-Template/labels/ADR-Superseded)
 
 ```
 In the context of  ..
