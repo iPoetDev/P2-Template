@@ -1,5 +1,5 @@
 ---
-name: '00 SPRINT: Plan & Report'
+name: '02 SPRINT: Plan & Report'
 about: 'SPRING: Flow | Plan | Report'
 title: "[SPRINT]  :: "
 labels: 'Kind: Sprint, Plan : Horizon, Plan : Sprint, Sprint 01 : The First Config,
