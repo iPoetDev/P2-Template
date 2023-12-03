@@ -335,12 +335,13 @@ Refs:
  ├── 📁 src
  |    ├── 📁 assets
  |    |    ├── 📁 css
+ |    |    ├── 📁 fonts
  |    |    ├── 📁 img
  |    |    |__ 📁 js
- |    ├── 📁 external
+ |    ├── 📁 libs            # external libraries
  |    |    ├── 📁 lib
  |    |    ├── 📁 lib
- |    ├── 📁 components
+ |    ├── 📁 components      # internal components
  |    ├── 📄 index.html
  |    ├── 📄 -.html
  |    ├── 📄 -.html
